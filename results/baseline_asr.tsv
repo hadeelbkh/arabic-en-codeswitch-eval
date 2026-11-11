@@ -1,0 +1,151 @@
+dataset	file	english_hits	missed_terms	reference	whisper_transcript
+baseline_saudi	S01_Aria.wav	0/1	transfer	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟	أبغى أسويه لكس لحساب أخوي. كيف أسويه؟
+baseline_saudi	S02_Aria.wav	0/1	OTP	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟	الأذ ما وصلني ممكن ترسله مرة ثانية
+baseline_saudi	S03_Aria.wav	0/2	credit card, debit card	وش الفرق بين ال credit card وال debit card؟	واش الفرق بين ال... وووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووو
+baseline_saudi	S04_Aria.wav	0/1	savings account	حطيت خمسمية ريال في ال savings account أمس.	حطيت خمسمائة ريال في الـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+baseline_saudi	S05_Aria.wav	0/1	Apple Pay	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟	ما يشتغل عندي من أمس وش المشكلة؟
+baseline_saudi	S06_Aria.wav	0/1	customer service	كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.	كلمت لتفورن إنين وقالوا لي انتظر ثلاثة أيام عملت
+baseline_saudi	S01_Jason.wav	0/1	transfer	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟	أبغى أسويه هستا لحساب أخوي. كيف أسويه؟
+baseline_saudi	S02_Jason.wav	0/1	OTP	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟	الآن ما وصلني ممكن ترسله مرة ثانية.
+baseline_saudi	S03_Jason.wav	0/2	credit card, debit card	وش الفرق بين ال credit card وال debit card؟	وش الفرق بين اللورو واللي اي تي؟
+baseline_saudi	S04_Jason.wav	0/1	savings account	حطيت خمسمية ريال في ال savings account أمس.	حطيت 500 ريال في الألس.
+baseline_saudi	S05_Jason.wav	0/1	Apple Pay	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟	هاتسا ما يشتغل عندي من أمس وش المشكلة؟
+baseline_saudi	S06_Jason.wav	0/1	customer service	كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.	ككلمة اللام لين وقالوا لانتظر ثلاثة أيام عمل
+baseline_saudi	S01_John.wav	0/1	transfer	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟	أبغى أسوي فس لحساب أخوي كيف أسويه؟
+baseline_saudi	S02_John.wav	0/1	OTP	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟	الما وصلني ممكن ترسله مرة ثانية
+baseline_saudi	S03_John.wav	0/2	credit card, debit card	وش الفرق بين ال credit card وال debit card؟	وش الفرق بين اللوبول إي واللاتات؟
+baseline_saudi	S04_John.wav	0/1	savings account	حطيت خمسمية ريال في ال savings account أمس.	حطيتي 500 ريال في الإتن أنس
+baseline_saudi	S05_John.wav	0/1	Apple Pay	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟	هن كسب ما يشتغل عندي من أمس وش المشكلة؟
+baseline_saudi	S06_John.wav	0/1	customer service	كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.	كلمت اللوت لن وقالوا لي انتظر ثلاث ايام عمل
+baseline_saudi	S01_Leo.wav	0/1	transfer	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟	أبغى أسويه فاز لحساب إخوي كيف أسويه؟
+baseline_saudi	S02_Leo.wav	0/1	OTP	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟	الألى ما وصلني ممكن ترسله مرة ثانية؟
+baseline_saudi	S03_Leo.wav	0/2	credit card, debit card	وش الفرق بين ال credit card وال debit card؟	وش الفرق بين ال-well أي-well-at؟
+baseline_saudi	S04_Leo.wav	0/1	savings account	حطيت خمسمية ريال في ال savings account أمس.	حطيتي خمسمية ريال في الأدنة السيك أمس.
+baseline_saudi	S05_Leo.wav	0/1	Apple Pay	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟	أدس فلاي ما يشتغل عندي من أمس وش المشكلة؟
+baseline_saudi	S06_Leo.wav	0/1	customer service	كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.	كلمة لوت تيمتين وقالوا لي انتظر ثلاثة أيام عمل
+baseline_saudi	S01_Sofia.wav	0/1	transfer	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟	أبغى أسوي لاتسكا لحساب أخوي كيف أسويه؟
+baseline_saudi	S02_Sofia.wav	0/1	OTP	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟	الأذي ما وصلني ممكن ترسله مرة ثانية
+baseline_saudi	S03_Sofia.wav	0/2	credit card, debit card	وش الفرق بين ال credit card وال debit card؟	وش الفرق بين اللوق ألج ولا لا؟
+baseline_saudi	S04_Sofia.wav	0/1	savings account	حطيت خمسمية ريال في ال savings account أمس.	حطيت خمسمائة ريال في الأيسز أمس
+baseline_saudi	S05_Sofia.wav	0/1	Apple Pay	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟	أثم ما يشتغل عندي من أمس وش المشكلة؟
+baseline_saudi	S06_Sofia.wav	0/1	customer service	كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.	كلمة اللم وقالوا لينتظر ثلاث أيام عمل
+baseline_white	W01_Aria.wav	0/1	Cashback	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.	ليلة المشتريات سيضاف إلى حسابك خلال يومين
+baseline_white	W02_Aria.wav	0/1	notifications	يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.	يمكنك تفعيل خدمة المتابعة كل عملية على حسابك.
+baseline_white	W03_Aria.wav	0/1	confirm	لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.	لإتمام العملية أدخل رمز التحقق ثم اضغط على ك
+baseline_white	W04_Aria.wav	0/1	transfer	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.	تم رفض عملية لتا بسبب تجاوز الحد اليومي
+baseline_white	W05_Aria.wav	0/1	Online banking	Online banking متاح الآن على مدار الساعة لجميع العملاء.	أتس ألتس متاح الآن على مدار الساعة لجميع العملاء
+baseline_white	W06_Aria.wav	0/1	two-factor authentication	ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.	ننصحك بتفعيل اتستات لحماية حسابك من الاختراق
+baseline_white	W07_Aria.wav	0/1	customer support	إذا واجهت أي مشكلة، تواصل مع فريق customer support.	إذا واجهت أي مشكلة، تواصل مع فريق الـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ
+baseline_white	W08_Aria.wav	0/1	direct debit	سيتم خصم القسط عبر direct debit في بداية كل شهر.	سيتم خصم القصة عبر Assetty في بداية كل شهر.
+baseline_white	W09_Aria.wav	0/1	IBAN	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.	ولي الخاص بك موجود في صفحة تفاصيل الحساب
+baseline_white	W10_Aria.wav	0/1	OTP	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.	لا تشارك رمز آلي مع أي شخص حتى لو ادعى أنه من البنك
+baseline_white	W11_Aria.wav	0/1	ATM	يمكنك سحب النقود من أقرب جهاز ATM.	يمكنك سحب النقود من أقرب جهاز الـ
+baseline_white	W12_Aria.wav	0/2	CEO, SWIFT	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.	أعلن آلي عن إطلاق منصة جديدة للتحويلات الدولية عبر إيد
+baseline_white	W13_Aria.wav	0/1	API	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.	يمكن للشركات ربط أنظمتها بالبنك من خلال المفتوحة وآمنة
+baseline_white	W14_Aria.wav	0/1	PIN	إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.	إذا نسيت آل رأ يمكنك إعادة تعيينه من التطبيق
+baseline_white	W15_Aria.wav	0/1	Apple Pay	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.	أصبحت دفع عبر ألت متاحاً لجميع بطاقات البنك.
+baseline_white	W16_Aria.wav	0/2	Visa, Mastercard	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.	لس وت تفرضان رسوما إضافية على بعض المعاملات الدولية،
+baseline_white	W17_Aria.wav	0/1	Google Pay	يمكنك ربط بطاقتك بمحفظة Google Pay.	يمكنك ربط بطاقتك بمحفظة L
+baseline_white	W18_Aria.wav	0/2	App Store, Google Play	حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.	حمل تطبيق البنك من ألد أو أسن أو سجل دخولك.
+baseline_white	W19_Aria.wav	0/1	Instant Transfer	تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.	تم تحويل 2500 ريال إلى حسابك عبر الساس
+baseline_white	W20_Aria.wav	0/1	POS	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.	الحد الأقصى لعمليات آل لا هو عشرة آلاف ريال يومياً
+baseline_white	W21_Aria.wav	0/1	OTP	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.	رمز آلة المكون من 6 أرقام صالح لمدة 5 دقائق فقط
+baseline_white	W22_Aria.wav	0/1	personal loan	سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.	سعر الفائدة على آل لستلين يبدأ من ثلاثة ونصف بالمئة سنوياً
+baseline_white	W23_Aria.wav	0/2	KYC verification, debit card	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.	بعد الألساء ستتمكن من استخدام اللاسترس الجديدة مباشرة.
+baseline_white	W24_Aria.wav	0/3	Premium account, cashback, airport lounges	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.	تلس كي يمنحك لس أعلى ودخولاً مجانياً إلى تي اتي
+baseline_white	W01_Jason.wav	0/1	Cashback	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.	أورالي المشتريات سيضاف إلى حسابك خلال يومين
+baseline_white	W02_Jason.wav	0/1	notifications	يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.	يمكنك تفعيل خدمة ALAD لمتابعة كل عملية على حسابك
+baseline_white	W03_Jason.wav	0/1	confirm	لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.	لإتمام العملية، أدخل رمز التحقق، ثم أضغط على HB.
+baseline_white	W04_Jason.wav	0/1	transfer	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.	تم رفض عملية إيلي لي بسبب تجاوز الحد اليومي
+baseline_white	W05_Jason.wav	0/1	Online banking	Online banking متاح الآن على مدار الساعة لجميع العملاء.	متاح الآن على مدار الساعة لجميع العملاء
+baseline_white	W06_Jason.wav	0/1	two-factor authentication	ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.	تنصحك بالتفعيل HLA لحماية حسابك من الاختراق
+baseline_white	W07_Jason.wav	0/1	customer support	إذا واجهت أي مشكلة، تواصل مع فريق customer support.	إذا واجهت أي مشكلة، تواصل مع فريق الله.
+baseline_white	W08_Jason.wav	0/1	direct debit	سيتم خصم القسط عبر direct debit في بداية كل شهر.	سيتم خصم القصد عبر AssetA في بداية كل شهر.
+baseline_white	W09_Jason.wav	0/1	IBAN	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.	والخاص بك موجود في صفحة تفاصيل الحساب
+baseline_white	W10_Jason.wav	0/1	OTP	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.	لا تشارك رمز آلي أل مع أي شخص حتى لو أدعى أنه من البنك
+baseline_white	W11_Jason.wav	0/1	ATM	يمكنك سحب النقود من أقرب جهاز ATM.	يمكنك سحب النقود من أقرب جهاز أدب
+baseline_white	W12_Jason.wav	0/2	CEO, SWIFT	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.	أعلن آلي عن إطلاق منصة جديدة للتحويلات الدولية عبر EELT.
+baseline_white	W13_Jason.wav	0/1	API	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.	يمكن للشركات ربط أنظمتها بالبنك من خلال مفتوحة وآمنة
+baseline_white	W14_Jason.wav	0/1	PIN	إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.	إذا نسيت آلات، يمكنك إعادة تعيينه من التطبيق
+baseline_white	W15_Jason.wav	0/1	Apple Pay	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.	أصبح الدفع عبر واااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااااا
+baseline_white	W16_Jason.wav	0/2	Visa, Mastercard	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.	آه، والفلتسلس تفرضان رسوماً إضافية على بعض المعاملات الدولية
+baseline_white	W17_Jason.wav	0/1	Google Pay	يمكنك ربط بطاقتك بمحفظة Google Pay.	يمكنك ربط بطاقتك بمحفظة
+baseline_white	W18_Jason.wav	0/2	App Store, Google Play	حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.	حمل تطبيق البنك من أت هيت أو أسن وسجل دخولك.
+baseline_white	W19_Jason.wav	0/1	Instant Transfer	تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.	تم تحويل 2500 ريال إلى حسابك عبر تيل أستا
+baseline_white	W20_Jason.wav	0/1	POS	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.	الحد الأقصى لعمليات آل لا هو عشرة آلاف ريال يومياً
+baseline_white	W21_Jason.wav	0/1	OTP	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.	عمز ألا أريلوم وكوين من ستة أرقام صالح لمدة خمس دقائق فقط
+baseline_white	W22_Jason.wav	0/1	personal loan	سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.	سعر الفائدة على آله لاذ يبدأ من ثلاثة ونصف بالمئة سنوياً
+baseline_white	W23_Jason.wav	0/2	KYC verification, debit card	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.	بعد ألا ليس، ستتمكن من استخدام اللاتيسة الجديدة مباشرة.
+baseline_white	W24_Jason.wav	0/3	Premium account, cashback, airport lounges	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.	سيثية يمنحك لسي أعلى ودخولاً مجانياً إلى تشيلي
+baseline_white	W01_John.wav	0/1	Cashback	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.	غارة المشتريات سيضاف إلى حسابك خلال يومين
+baseline_white	W02_John.wav	0/1	notifications	يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.	يمكنك تفعيل خدمة ألت ألال لمتابعة كل عملية على حسابك
+baseline_white	W03_John.wav	0/1	confirm	لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.	لإتمام العملية أدخل رمز التحقق ثم اضغط على
+baseline_white	W04_John.wav	0/1	transfer	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.	تم رفض عملية آل لتا بسبب تجاوز الحد اليومي
+baseline_white	W05_John.wav	0/1	Online banking	Online banking متاح الآن على مدار الساعة لجميع العملاء.	أص إيس متاح الآن على مدار الساعة لجميع العملاء
+baseline_white	W06_John.wav	0/1	two-factor authentication	ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.	ننصحك بتفعيل H-A80 لحماية حسابك من الاختراق
+baseline_white	W07_John.wav	0/1	customer support	إذا واجهت أي مشكلة، تواصل مع فريق customer support.	إذا واجهت أي مشكلة تواصل مع فريق لله
+baseline_white	W08_John.wav	0/1	direct debit	سيتم خصم القسط عبر direct debit في بداية كل شهر.	سيتم خصم القسط عبر فتن في بداية كل شهر
+baseline_white	W09_John.wav	0/1	IBAN	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.	لعل الخاص بك موجود في صفحة تفاصيل الحساب
+baseline_white	W10_John.wav	0/1	OTP	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.	لا تشارك رمز مع أي شخص حتى لو أدعى أنه من البنك
+baseline_white	W11_John.wav	0/1	ATM	يمكنك سحب النقود من أقرب جهاز ATM.	يمكنك سحب النقود من أقرب جهاز لا
+baseline_white	W12_John.wav	0/2	CEO, SWIFT	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.	أعلن لي عن إطلاق منصة جديدة للتحويلات الدولية عبرالد
+baseline_white	W13_John.wav	0/1	API	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.	يمكن للشركات ربط أنظمتها بالبنك من خلال مفتوحة وآمنة
+baseline_white	W14_John.wav	0/1	PIN	إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.	إذا نسيت أللت يمكنك إعادة تعيينه من التطبيق
+baseline_white	W15_John.wav	0/1	Apple Pay	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.	أصبح الدفع عبر اللاذي متاحا لجميع بطاقات البنك
+baseline_white	W16_John.wav	0/2	Visa, Mastercard	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.	هس ايت تفرضان رسوما اضافية على بعض المعاملات الدولية
+baseline_white	W17_John.wav	0/1	Google Pay	يمكنك ربط بطاقتك بمحفظة Google Pay.	يمكنك ربط بطاقتك بمحفظة أه
+baseline_white	W18_John.wav	0/2	App Store, Google Play	حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.	حمل تطبيق البنك من ألة TOS وسجل دخولك.
+baseline_white	W19_John.wav	0/1	Instant Transfer	تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.	تم تحويل 2500 ريال إلى حسابك عبر لات اس
+baseline_white	W20_John.wav	0/1	POS	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.	الحد الأقصى لعمليات اللا هو عشرة آلاف ريال يومياً
+baseline_white	W21_John.wav	0/1	OTP	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.	رمز آل ألي المكون من ستة أرقام صالح لمدة خمس دقائق فقط
+baseline_white	W22_John.wav	0/1	personal loan	سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.	سعر الفائدة على الليستيلين يبدأ من ثلاثة ونصف بالمئة سنوياً
+baseline_white	W23_John.wav	0/2	KYC verification, debit card	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.	بعد الللل، اللللس ستتمكن من استخدام اللبتل جديدة مباشرةً.
+baseline_white	W24_John.wav	0/3	Premium account, cashback, airport lounges	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.	رث السير يمنحك لسي أعلى ودخولا مجانيا إلى السير
+baseline_white	W01_Leo.wav	0/1	Cashback	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.	أولج المشتريات سيضاف إلى حسابك خلال يومين
+baseline_white	W02_Leo.wav	0/1	notifications	يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.	يمكنك تفعيل خدمة ALECTED لمتابعة كل عملية على حسابك.
+baseline_white	W03_Leo.wav	0/1	confirm	لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.	لإتمام العملية أدخل رمز التحقق ثم اضغط على
+baseline_white	W04_Leo.wav	0/1	transfer	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.	تم رفض عملية آل لأثاب بسبب تجاوز الحد اليومي
+baseline_white	W05_Leo.wav	0/1	Online banking	Online banking متاح الآن على مدار الساعة لجميع العملاء.	أدي لس متاح الآن على مدار الساعة لجميع العملاء
+baseline_white	W06_Leo.wav	0/1	two-factor authentication	ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.	ننصحك بتفعيل في ليليل لحماية حسابك من الاختراق
+baseline_white	W07_Leo.wav	0/1	customer support	إذا واجهت أي مشكلة، تواصل مع فريق customer support.	إذا واجهت أي مشكلة تواصل مع فريق A أدأل
+baseline_white	W08_Leo.wav	0/1	direct debit	سيتم خصم القسط عبر direct debit في بداية كل شهر.	سيتم خصم القصة عبر أسد في بداية كل الشهر.
+baseline_white	W09_Leo.wav	0/1	IBAN	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.	لاب الخاص بك موجود في صفحة تفاصيل الحساب
+baseline_white	W10_Leo.wav	0/1	OTP	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.	لا تشارك رمز مع أي شخص حتى لو ادعى أنه من البنك
+baseline_white	W11_Leo.wav	0/1	ATM	يمكنك سحب النقود من أقرب جهاز ATM.	يمكنك سحب النقود من أقرب جهاز L؟
+baseline_white	W12_Leo.wav	0/2	CEO, SWIFT	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.	أعلن آل عن إطلاق منصة جديدة للتحويلات الدولية عبر إيد
+baseline_white	W13_Leo.wav	0/1	API	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.	يمكن للشركات ربط أنظمتها بالبنك من خلال مفتوحة وآمنة
+baseline_white	W14_Leo.wav	0/1	PIN	إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.	إذا نسيت آلة يمكنك إعادة تعيينه من التطبيق
+baseline_white	W15_Leo.wav	0/1	Apple Pay	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.	أصبح الدفع عبر LG متاحا لجميع بطاقات البنك
+baseline_white	W16_Leo.wav	0/2	Visa, Mastercard	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.	ألي واستسد تفرضان رسوماً إضافية على بعض المعاملات الدولية
+baseline_white	W17_Leo.wav	0/1	Google Pay	يمكنك ربط بطاقتك بمحفظة Google Pay.	يمكنك ربط بطاقتك بمحفظة تا
+baseline_white	W18_Leo.wav	0/2	App Store, Google Play	حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.	حمل تطبيق البنك من ألت أو ألس وسجل دخولك
+baseline_white	W19_Leo.wav	0/1	Instant Transfer	تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.	تم تحويل 2500 ريال إلى حسابك عبر تل أفي
+baseline_white	W20_Leo.wav	0/1	POS	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.	الحد الأقصى لعمليات A هو 10 ألاف ريال يومياً
+baseline_white	W21_Leo.wav	0/1	OTP	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.	رمز آلائي المكون من ستة أرقام صالح لمدة خمس دقائق فقط
+baseline_white	W22_Leo.wav	0/1	personal loan	سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.	سعر الفائدة على آل لتل يبدأ من ثلاثة ونصف بالمئة سنوياً
+baseline_white	W23_Leo.wav	0/2	KYC verification, debit card	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.	بعد LLLG ستتمكن من استخدام LLG الجديدة مباشرة
+baseline_white	W24_Leo.wav	0/3	Premium account, cashback, airport lounges	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.	أردت السوء يمنحك لاسا أعلى ودخولا مجانيا إلى سلاة
+baseline_white	W01_Sofia.wav	0/1	Cashback	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.	ولول المشتريات سيضاف إلى حسابك خلال يومين
+baseline_white	W02_Sofia.wav	0/1	notifications	يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.	يمكنك تفعيل خدمة اللللل لمتابعة كل عملية على حسابك،
+baseline_white	W03_Sofia.wav	0/1	confirm	لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.	لإتمام العملية، أدخل رمز التحقق ثم أضغط على أبس باه
+baseline_white	W04_Sofia.wav	0/1	transfer	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.	تم رفض عملية إيل لي بسبب تجاوز الحد اليومي
+baseline_white	W05_Sofia.wav	0/1	Online banking	Online banking متاح الآن على مدار الساعة لجميع العملاء.	إيروت إلات متاح الآن على مدار الساعة لجميع العملاء؟
+baseline_white	W06_Sofia.wav	0/1	two-factor authentication	ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.	ننصحك بتفعيل It's a Less لحماية حسابك من الاختراق.
+baseline_white	W07_Sofia.wav	0/1	customer support	إذا واجهت أي مشكلة، تواصل مع فريق customer support.	إذا واجهت أي مشكلة تواصل مع فريق إت ألا؟
+baseline_white	W08_Sofia.wav	0/1	direct debit	سيتم خصم القسط عبر direct debit في بداية كل شهر.	سيتم خصم القصة عبر اتضس في بداية كل شهر
+baseline_white	W09_Sofia.wav	0/1	IBAN	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.	لات الخاص بك موجود في صفحة تفاصيل الحساب
+baseline_white	W10_Sofia.wav	0/1	OTP	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.	لا تشارك رمز آلة إلا مع أي شخص حتى لو ادعى أنه من البنك
+baseline_white	W11_Sofia.wav	0/1	ATM	يمكنك سحب النقود من أقرب جهاز ATM.	يمكنك سحب النقود من أقرب جهاز L
+baseline_white	W12_Sofia.wav	0/2	CEO, SWIFT	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.	أعلن آل لي عن إطلاق منصة جديدة للتحويلات الدولية عبر ألت
+baseline_white	W13_Sofia.wav	0/1	API	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.	يمكن للشركات ربط أنظمتها بالبنك من خلال مفتوحة وآمنة.
+baseline_white	W14_Sofia.wav	0/1	PIN	إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.	إذا نسيت آلة يمكنك إعادة تعيينه من التطبيق
+baseline_white	W15_Sofia.wav	0/1	Apple Pay	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.	أصبح الدفع عبر قلة متاحاً لجميع بطاقات البنك
+baseline_white	W16_Sofia.wav	0/2	Visa, Mastercard	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.	Why would it تفرضان رسوماً إضافية على بعض المعاملات الدولية؟
+baseline_white	W17_Sofia.wav	0/1	Google Pay	يمكنك ربط بطاقتك بمحفظة Google Pay.	يمكنك ربط طاقتك بمحفظة
+baseline_white	W18_Sofia.wav	0/2	App Store, Google Play	حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.	حمل تطبيق البنك من L-T أو SS وسجل دخولك
+baseline_white	W19_Sofia.wav	0/1	Instant Transfer	تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.	تم تحويل 2500 ريال إلى حسابك عبر الجسسس
+baseline_white	W20_Sofia.wav	0/1	POS	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.	الحد الأقصى لعمليات اللا هو عشرة آلاف ريال يومياً
+baseline_white	W21_Sofia.wav	0/1	OTP	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.	رمز آلة المكون من 6 أرقام صالح لمدة 5 دقائق فقط
+baseline_white	W22_Sofia.wav	0/1	personal loan	سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.	سعر الفائدة على ألدتس إلق يبدأ من ثلاثة ونصف بالمئة نوياً
+baseline_white	W23_Sofia.wav	0/2	KYC verification, debit card	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.	بعد ألاللتس ستتمكن من استخدام اللتسل الجديدة مباشرة
+baseline_white	W24_Sofia.wav	0/3	Premium account, cashback, airport lounges	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.	يصيمنحك لصد أعلى ودخولاً مجانياً إلى تسل.

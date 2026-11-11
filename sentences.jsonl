@@ -1,0 +1,30 @@
+{"id": "W01", "dialect": "white", "category": "single_word", "position": "start", "english": ["Cashback"], "text": "Cashback المشتريات سيُضاف إلى حسابك خلال يومين."}
+{"id": "W02", "dialect": "white", "category": "single_word", "position": "middle", "english": ["notifications"], "text": "يمكنك تفعيل خدمة الـ notifications لمتابعة كل عملية على حسابك."}
+{"id": "W03", "dialect": "white", "category": "single_word", "position": "end", "english": ["confirm"], "text": "لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm."}
+{"id": "W04", "dialect": "white", "category": "single_word", "position": "middle", "english": ["transfer"], "text": "تم رفض عملية الـ transfer بسبب تجاوز الحد اليومي."}
+{"id": "W05", "dialect": "white", "category": "phrase", "position": "start", "english": ["Online banking"], "text": "Online banking متاح الآن على مدار الساعة لجميع العملاء."}
+{"id": "W06", "dialect": "white", "category": "phrase", "position": "middle", "english": ["two-factor authentication"], "text": "ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق."}
+{"id": "W07", "dialect": "white", "category": "phrase", "position": "end", "english": ["customer support"], "text": "إذا واجهت أي مشكلة، تواصل مع فريق customer support."}
+{"id": "W08", "dialect": "white", "category": "phrase", "position": "middle", "english": ["direct debit"], "text": "سيتم خصم القسط عبر direct debit في بداية كل شهر."}
+{"id": "W09", "dialect": "white", "category": "acronym", "position": "start", "english": ["IBAN"], "text": "IBAN الخاص بك موجود في صفحة تفاصيل الحساب."}
+{"id": "W10", "dialect": "white", "category": "acronym", "position": "middle", "english": ["OTP"], "text": "لا تشارك رمز الـ OTP مع أي شخص حتى لو ادّعى أنه من البنك."}
+{"id": "W11", "dialect": "white", "category": "acronym", "position": "end", "english": ["ATM"], "text": "يمكنك سحب النقود من أقرب جهاز ATM."}
+{"id": "W12", "dialect": "white", "category": "acronym", "position": "middle", "english": ["CEO", "SWIFT"], "text": "أعلن الـ CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT."}
+{"id": "W13", "dialect": "white", "category": "acronym", "position": "middle", "english": ["API"], "text": "يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة."}
+{"id": "W14", "dialect": "white", "category": "acronym", "position": "middle", "english": ["PIN"], "text": "إذا نسيت الـ PIN، يمكنك إعادة تعيينه من التطبيق."}
+{"id": "W15", "dialect": "white", "category": "brand", "position": "middle", "english": ["Apple Pay"], "text": "أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك."}
+{"id": "W16", "dialect": "white", "category": "brand", "position": "start", "english": ["Visa", "Mastercard"], "text": "Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية."}
+{"id": "W17", "dialect": "white", "category": "brand", "position": "end", "english": ["Google Pay"], "text": "يمكنك ربط بطاقتك بمحفظة Google Pay."}
+{"id": "W18", "dialect": "white", "category": "brand", "position": "middle", "english": ["App Store", "Google Play"], "text": "حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك."}
+{"id": "W19", "dialect": "white", "category": "number", "position": "end", "english": ["Instant Transfer"], "text": "تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.", "digits_text": "تم تحويل 2500 ريال إلى حسابك عبر Instant Transfer."}
+{"id": "W20", "dialect": "white", "category": "number", "position": "middle", "english": ["POS"], "text": "الحد الأقصى لعمليات الـ POS هو عشرة آلاف ريال يوميًا.", "digits_text": "الحد الأقصى لعمليات الـ POS هو 10,000 ريال يوميًا."}
+{"id": "W21", "dialect": "white", "category": "number", "position": "middle", "english": ["OTP"], "text": "رمز الـ OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.", "digits_text": "رمز الـ OTP المكوّن من 6 أرقام صالح لمدة 5 دقائق فقط."}
+{"id": "W22", "dialect": "white", "category": "number", "position": "middle", "english": ["personal loan"], "text": "سعر الفائدة على الـ personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.", "digits_text": "سعر الفائدة على الـ personal loan يبدأ من 3.5% سنويًا."}
+{"id": "W23", "dialect": "white", "category": "mixed", "position": "middle", "english": ["KYC verification", "debit card"], "text": "بعد الـ KYC verification، ستتمكن من استخدام الـ debit card الجديدة مباشرة."}
+{"id": "W24", "dialect": "white", "category": "mixed", "position": "start,middle,end", "english": ["Premium account", "cashback", "airport lounges"], "text": "Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges."}
+{"id": "S01", "dialect": "saudi", "category": "single_word", "position": "middle", "english": ["transfer"], "text": "أبغى أسوي transfer لحساب أخوي، كيف أسويه؟"}
+{"id": "S02", "dialect": "saudi", "category": "acronym", "position": "start", "english": ["OTP"], "text": "الـ OTP ما وصلني، ممكن ترسله مرة ثانية؟"}
+{"id": "S03", "dialect": "saudi", "category": "phrase", "position": "middle,end", "english": ["credit card", "debit card"], "text": "وش الفرق بين الـ credit card والـ debit card؟"}
+{"id": "S04", "dialect": "saudi", "category": "number", "position": "end", "english": ["savings account"], "text": "حطيت خمسمية ريال في الـ savings account أمس.", "digits_text": "حطيت 500 ريال في الـ savings account أمس."}
+{"id": "S05", "dialect": "saudi", "category": "brand", "position": "start", "english": ["Apple Pay"], "text": "Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟"}
+{"id": "S06", "dialect": "saudi", "category": "mixed", "position": "middle", "english": ["customer service"], "text": "كلمت الـ customer service وقالوا لي انتظر ثلاث أيام عمل.", "digits_text": "كلمت الـ customer service وقالوا لي انتظر 3 أيام عمل."}

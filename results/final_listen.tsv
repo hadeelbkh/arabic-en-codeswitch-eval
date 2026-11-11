@@ -1,0 +1,151 @@
+dataset	file	sec	sec_per_word	rms_db	flag	category	position	text	english_ok (fill in)	arabic_ok (fill in)	notes
+routed_saudi	S01_Aria.wav	3.62	0.52	-23.6		single_word	middle	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟
+routed_saudi	S02_Aria.wav	4.09	0.51	-23.7		acronym	start	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟
+routed_saudi	S03_Aria.wav	3.16	0.35	-23.9		phrase	middle,end	وش الفرق بين ال credit card وال debit card؟
+routed_saudi	S04_Aria.wav	3.72	0.46	-23.0		number	end	حطيت خمسمية ريال في ال savings account أمس.
+routed_saudi	S05_Aria.wav	3.99	0.44	-22.8		brand	start	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟
+routed_saudi	S06_Aria.wav	3.99	0.40	-22.6		mixed	middle	كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.
+routed_saudi	S01_Jason.wav	4.09	0.58	-28.2		single_word	middle	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟
+routed_saudi	S02_Jason.wav	4.46	0.56	-27.1		acronym	start	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟
+routed_saudi	S03_Jason.wav	3.16	0.35	-25.2		phrase	middle,end	وش الفرق بين ال credit card وال debit card؟
+routed_saudi	S04_Jason.wav	3.81	0.48	-28.4		number	end	حطيت خمسمية ريال في ال savings account أمس.
+routed_saudi	S05_Jason.wav	3.44	0.38	-27.3		brand	start	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟
+routed_saudi	S06_Jason.wav	4.18	0.42	-26.6		mixed	middle	كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.
+routed_saudi	S01_John.wav	4.37	0.62	-24.6		single_word	middle	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟
+routed_saudi	S02_John.wav	5.53	0.69	-25.4		acronym	start	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟
+routed_saudi	S03_John.wav	3.81	0.42	-24.8		phrase	middle,end	وش الفرق بين ال credit card وال debit card؟
+routed_saudi	S04_John.wav	3.58	0.45	-23.8		number	end	حطيت خمسمية ريال في ال savings account أمس.
+routed_saudi	S05_John.wav	5.11	0.57	-26.1		brand	start	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟
+routed_saudi	S06_John.wav	4.55	0.46	-24.2		mixed	middle	كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.
+routed_saudi	S01_Leo.wav	4.50	0.64	-26.1		single_word	middle	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟
+routed_saudi	S02_Leo.wav	5.25	0.66	-26.3		acronym	start	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟
+routed_saudi	S03_Leo.wav	3.25	0.36	-26.9		phrase	middle,end	وش الفرق بين ال credit card وال debit card؟
+routed_saudi	S04_Leo.wav	3.99	0.50	-26.0		number	end	حطيت خمسمية ريال في ال savings account أمس.
+routed_saudi	S05_Leo.wav	3.95	0.44	-26.2		brand	start	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟
+routed_saudi	S06_Leo.wav	4.69	0.47	-23.9		mixed	middle	كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.
+routed_saudi	S01_Sofia.wav	3.81	0.54	-26.8		single_word	middle	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟
+routed_saudi	S02_Sofia.wav	4.64	0.58	-24.6		acronym	start	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟
+routed_saudi	S03_Sofia.wav	3.25	0.36	-25.9		phrase	middle,end	وش الفرق بين ال credit card وال debit card؟
+routed_saudi	S04_Sofia.wav	3.99	0.50	-26.6		number	end	حطيت خمسمية ريال في ال savings account أمس.
+routed_saudi	S05_Sofia.wav	4.09	0.45	-24.6		brand	start	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟
+routed_saudi	S06_Sofia.wav	4.18	0.42	-24.3		mixed	middle	كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.
+routed_white	W01_Aria.wav	3.99	0.57	-21.5		single_word	start	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.
+routed_white	W02_Aria.wav	5.29	0.53	-23.1		single_word	middle	يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.
+routed_white	W04_Aria.wav	4.27	0.47	-20.6		single_word	middle	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.
+routed_white	W05_Aria.wav	3.81	0.42	-20.1		phrase	start	Online banking متاح الآن على مدار الساعة لجميع العملاء.
+routed_white	W06_Aria.wav	4.55	0.57	-24.6		phrase	middle	ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.
+routed_white	W08_Aria.wav	3.81	0.38	-22.5		phrase	middle	سيتم خصم القسط عبر direct debit في بداية كل شهر.
+routed_white	W09_Aria.wav	3.81	0.48	-24.3		acronym	start	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.
+routed_white	W10_Aria.wav	4.64	0.33	-22.7		acronym	middle	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.
+routed_white	W13_Aria.wav	4.88	0.49	-21.7		acronym	middle	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.
+routed_white	W14_Aria.wav	4.09	0.45	-23.8		acronym	middle	إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.
+routed_white	W15_Aria.wav	3.81	0.42	-21.4		brand	middle	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.
+routed_white	W16_Aria.wav	4.74	0.47	-20.8		brand	start	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.
+routed_white	W18_Aria.wav	4.27	0.39	-22.4		brand	middle	حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.
+routed_white	W20_Aria.wav	4.55	0.46	-22.9		number	middle	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.
+routed_white	W21_Aria.wav	5.48	0.46	-23.1		number	middle	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.
+routed_white	W22_Aria.wav	4.92	0.41	-21.0		number	middle	سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.
+routed_white	W23_Aria.wav	5.29	0.44	-22.0		mixed	middle	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.
+routed_white	W01_Jason.wav	3.62	0.52	-26.1		single_word	start	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.
+routed_white	W02_Jason.wav	4.92	0.49	-25.9		single_word	middle	يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.
+routed_white	W04_Jason.wav	4.18	0.46	-25.0		single_word	middle	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.
+routed_white	W05_Jason.wav	3.99	0.44	-25.2		phrase	start	Online banking متاح الآن على مدار الساعة لجميع العملاء.
+routed_white	W06_Jason.wav	4.64	0.58	-25.5		phrase	middle	ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.
+routed_white	W08_Jason.wav	3.90	0.39	-25.6		phrase	middle	سيتم خصم القسط عبر direct debit في بداية كل شهر.
+routed_white	W09_Jason.wav	3.44	0.43	-26.5		acronym	start	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.
+routed_white	W10_Jason.wav	4.83	0.34	-25.7		acronym	middle	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.
+routed_white	W13_Jason.wav	4.92	0.49	-27.6		acronym	middle	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.
+routed_white	W14_Jason.wav	4.18	0.46	-26.3		acronym	middle	إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.
+routed_white	W15_Jason.wav	4.64	0.52	-26.5		brand	middle	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.
+routed_white	W16_Jason.wav	5.20	0.52	-25.3		brand	start	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.
+routed_white	W18_Jason.wav	4.09	0.37	-25.0		brand	middle	حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.
+routed_white	W20_Jason.wav	4.69	0.47	-26.2		number	middle	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.
+routed_white	W21_Jason.wav	5.76	0.48	-26.5		number	middle	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.
+routed_white	W22_Jason.wav	5.57	0.46	-25.5		number	middle	سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.
+routed_white	W23_Jason.wav	6.78	0.57	-25.0		mixed	middle	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.
+routed_white	W01_John.wav	4.27	0.61	-21.6		single_word	start	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.
+routed_white	W02_John.wav	5.90	0.59	-22.5		single_word	middle	يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.
+routed_white	W04_John.wav	4.88	0.54	-21.7		single_word	middle	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.
+routed_white	W05_John.wav	4.50	0.50	-21.5		phrase	start	Online banking متاح الآن على مدار الساعة لجميع العملاء.
+routed_white	W06_John.wav	5.62	0.70	-22.4		phrase	middle	ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.
+routed_white	W08_John.wav	4.88	0.49	-23.7		phrase	middle	سيتم خصم القسط عبر direct debit في بداية كل شهر.
+routed_white	W09_John.wav	4.18	0.52	-23.1		acronym	start	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.
+routed_white	W10_John.wav	5.67	0.40	-23.8		acronym	middle	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.
+routed_white	W13_John.wav	6.64	0.66	-22.2		acronym	middle	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.
+routed_white	W14_John.wav	5.15	0.57	-23.8		acronym	middle	إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.
+routed_white	W15_John.wav	5.02	0.56	-24.4		brand	middle	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.
+routed_white	W16_John.wav	5.71	0.57	-21.5		brand	start	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.
+routed_white	W18_John.wav	4.78	0.43	-22.2		brand	middle	حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.
+routed_white	W20_John.wav	5.11	0.51	-23.2		number	middle	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.
+routed_white	W21_John.wav	5.76	0.48	-22.8		number	middle	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.
+routed_white	W22_John.wav	5.48	0.46	-21.8		number	middle	سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.
+routed_white	W23_John.wav	6.55	0.55	-24.6		mixed	middle	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.
+routed_white	W01_Leo.wav	4.41	0.63	-23.7		single_word	start	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.
+routed_white	W02_Leo.wav	5.29	0.53	-23.1		single_word	middle	يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.
+routed_white	W04_Leo.wav	4.55	0.51	-22.8		single_word	middle	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.
+routed_white	W05_Leo.wav	4.60	0.51	-24.2		phrase	start	Online banking متاح الآن على مدار الساعة لجميع العملاء.
+routed_white	W06_Leo.wav	5.29	0.66	-23.7		phrase	middle	ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.
+routed_white	W08_Leo.wav	4.60	0.46	-24.4		phrase	middle	سيتم خصم القسط عبر direct debit في بداية كل شهر.
+routed_white	W09_Leo.wav	3.72	0.46	-26.3		acronym	start	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.
+routed_white	W10_Leo.wav	5.90	0.42	-23.9		acronym	middle	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.
+routed_white	W13_Leo.wav	5.71	0.57	-23.5		acronym	middle	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.
+routed_white	W14_Leo.wav	4.92	0.55	-25.8		acronym	middle	إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.
+routed_white	W15_Leo.wav	5.57	0.62	-25.3		brand	middle	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.
+routed_white	W16_Leo.wav	6.18	0.62	-24.3		brand	start	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.
+routed_white	W18_Leo.wav	5.02	0.46	-26.1		brand	middle	حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.
+routed_white	W20_Leo.wav	5.53	0.55	-25.7		number	middle	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.
+routed_white	W21_Leo.wav	6.78	0.57	-24.1		number	middle	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.
+routed_white	W22_Leo.wav	6.41	0.53	-24.5		number	middle	سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.
+routed_white	W23_Leo.wav	7.34	0.61	-25.4		mixed	middle	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.
+routed_white	W01_Sofia.wav	3.62	0.52	-23.3		single_word	start	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.
+routed_white	W02_Sofia.wav	5.02	0.50	-23.4		single_word	middle	يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.
+routed_white	W04_Sofia.wav	3.81	0.42	-24.7		single_word	middle	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.
+routed_white	W05_Sofia.wav	4.09	0.45	-23.5		phrase	start	Online banking متاح الآن على مدار الساعة لجميع العملاء.
+routed_white	W06_Sofia.wav	4.64	0.58	-25.2		phrase	middle	ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.
+routed_white	W08_Sofia.wav	3.90	0.39	-24.9		phrase	middle	سيتم خصم القسط عبر direct debit في بداية كل شهر.
+routed_white	W09_Sofia.wav	3.25	0.41	-25.9		acronym	start	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.
+routed_white	W10_Sofia.wav	5.48	0.39	-25.4		acronym	middle	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.
+routed_white	W13_Sofia.wav	4.88	0.49	-25.0		acronym	middle	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.
+routed_white	W14_Sofia.wav	3.99	0.44	-24.7		acronym	middle	إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.
+routed_white	W15_Sofia.wav	4.27	0.47	-24.7		brand	middle	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.
+routed_white	W16_Sofia.wav	5.20	0.52	-23.7		brand	start	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.
+routed_white	W18_Sofia.wav	4.13	0.38	-24.4		brand	middle	حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.
+routed_white	W20_Sofia.wav	4.27	0.43	-24.9		number	middle	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.
+routed_white	W21_Sofia.wav	5.43	0.45	-25.1		number	middle	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.
+routed_white	W22_Sofia.wav	5.20	0.43	-23.4		number	middle	سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.
+routed_white	W23_Sofia.wav	6.32	0.53	-24.8		mixed	middle	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.
+fix7_white	W03_Aria.wav	4.27	0.47	-22.8		single_word	end	لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.
+fix7_white	W07_Aria.wav	3.44	0.38	-22.7		phrase	end	إذا واجهت أي مشكلة، تواصل مع فريق customer support.
+fix7_white	W11_Aria.wav	3.07	0.44	-23.5		acronym	end	يمكنك سحب النقود من أقرب جهاز ATM.
+fix7_white	W12_Aria.wav	4.55	0.41	-21.5		acronym	middle	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.
+fix7_white	W17_Aria.wav	3.16	0.53	-23.2		brand	end	يمكنك ربط بطاقتك بمحفظة Google Pay.
+fix7_white	W19_Aria.wav	4.37	0.44	-22.3		number	end	تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.
+fix7_white	W24_Aria.wav	4.92	0.49	-19.8		mixed	start,middle,end	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.
+fix7_white	W03_Jason.wav	4.18	0.46	-26.7		single_word	end	لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.
+fix7_white	W07_Jason.wav	3.90	0.43	-27.0		phrase	end	إذا واجهت أي مشكلة، تواصل مع فريق customer support.
+fix7_white	W11_Jason.wav	3.72	0.53	-27.2		acronym	end	يمكنك سحب النقود من أقرب جهاز ATM.
+fix7_white	W12_Jason.wav	5.02	0.46	-25.9		acronym	middle	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.
+fix7_white	W17_Jason.wav	3.53	0.59	-25.8		brand	end	يمكنك ربط بطاقتك بمحفظة Google Pay.
+fix7_white	W19_Jason.wav	4.55	0.46	-27.0		number	end	تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.
+fix7_white	W24_Jason.wav	5.57	0.56	-25.3		mixed	start,middle,end	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.
+fix7_white	W03_John.wav	5.25	0.58	-24.2		single_word	end	لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.
+fix7_white	W07_John.wav	4.55	0.51	-21.9		phrase	end	إذا واجهت أي مشكلة، تواصل مع فريق customer support.
+fix7_white	W11_John.wav	3.99	0.57	-22.6		acronym	end	يمكنك سحب النقود من أقرب جهاز ATM.
+fix7_white	W12_John.wav	6.22	0.57	-23.7		acronym	middle	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.
+fix7_white	W17_John.wav	3.99	0.67	-23.0		brand	end	يمكنك ربط بطاقتك بمحفظة Google Pay.
+fix7_white	W19_John.wav	5.06	0.51	-24.0		number	end	تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.
+fix7_white	W24_John.wav	6.22	0.62	-23.7		mixed	start,middle,end	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.
+fix7_white	W03_Leo.wav	4.92	0.55	-24.9		single_word	end	لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.
+fix7_white	W07_Leo.wav	3.99	0.44	-24.2		phrase	end	إذا واجهت أي مشكلة، تواصل مع فريق customer support.
+fix7_white	W11_Leo.wav	3.62	0.52	-24.6		acronym	end	يمكنك سحب النقود من أقرب جهاز ATM.
+fix7_white	W12_Leo.wav	5.20	0.47	-23.8		acronym	middle	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.
+fix7_white	W17_Leo.wav	3.53	0.59	-24.3		brand	end	يمكنك ربط بطاقتك بمحفظة Google Pay.
+fix7_white	W19_Leo.wav	5.11	0.51	-25.2		number	end	تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.
+fix7_white	W24_Leo.wav	5.48	0.55	-23.1		mixed	start,middle,end	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.
+fix7_white	W03_Sofia.wav	4.37	0.49	-23.5		single_word	end	لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.
+fix7_white	W07_Sofia.wav	3.72	0.41	-23.8		phrase	end	إذا واجهت أي مشكلة، تواصل مع فريق customer support.
+fix7_white	W11_Sofia.wav	3.07	0.44	-23.1		acronym	end	يمكنك سحب النقود من أقرب جهاز ATM.
+fix7_white	W12_Sofia.wav	5.02	0.46	-23.5		acronym	middle	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.
+fix7_white	W17_Sofia.wav	3.34	0.56	-24.2		brand	end	يمكنك ربط بطاقتك بمحفظة Google Pay.
+fix7_white	W19_Sofia.wav	4.55	0.46	-23.1		number	end	تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.
+fix7_white	W24_Sofia.wav	5.29	0.53	-23.5		mixed	start,middle,end	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.

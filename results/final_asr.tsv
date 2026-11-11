@@ -1,0 +1,151 @@
+dataset	file	english_hits	missed_terms	reference	whisper_transcript
+routed_saudi	S01_Aria.wav	0/1	transfer	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟	أبغى أسوي ترانسفر لحساب أخوي. كيف أسويه؟
+routed_saudi	S02_Aria.wav	0/1	OTP	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟	آل أتبي ما وصلني ممكن ترسله مرة ثانية؟
+routed_saudi	S03_Aria.wav	0/2	credit card, debit card	وش الفرق بين ال credit card وال debit card؟	وش الفرق بين الكريدت كارد و دبيت كارد؟
+routed_saudi	S04_Aria.wav	1/1		حطيت خمسمية ريال في ال savings account أمس.	حطيت 500 ريال في الـ Savings Account أمس،
+routed_saudi	S05_Aria.wav	0/1	Apple Pay	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟	أبل باي ما يشتغل عندي من أمس، وش المشكلة؟
+routed_saudi	S06_Aria.wav	1/1		كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.	هريمت الـ Customer Service وقالوا لي انتظر ثلاثة أيام العمل
+routed_saudi	S01_Jason.wav	0/1	transfer	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟	أبغى أسوي ترانسفر لحساب أخوي. كيف أسويه؟
+routed_saudi	S02_Jason.wav	0/1	OTP	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟	ألا عطيب ما وصلني ممكن ترسله مرة ثانية
+routed_saudi	S03_Jason.wav	0/2	credit card, debit card	وش الفرق بين ال credit card وال debit card؟	وش الفرق بين الكريدت كارد والدابت كارد؟
+routed_saudi	S04_Jason.wav	0/1	savings account	حطيت خمسمية ريال في ال savings account أمس.	حطيت 500 ريال في السيفينز أكاونت أمس
+routed_saudi	S05_Jason.wav	0/1	Apple Pay	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟	أبل باي ما يشتغل عندي من أمس، وش المشكلة؟
+routed_saudi	S06_Jason.wav	1/1		كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.	كلمة الـ Customer Service وقالوا لي انتظر ثلاثة أيام عمل.
+routed_saudi	S01_John.wav	0/1	transfer	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟	أبغى أسوي ترانسفر لحساب أخوي كيف أسويه؟
+routed_saudi	S02_John.wav	0/1	OTP	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟	قال أتبي ما وصلني ممكن ترسله مرة ثانية
+routed_saudi	S03_John.wav	0/2	credit card, debit card	وش الفرق بين ال credit card وال debit card؟	وش الفرق بين الكريديت كارد والديبيت كارد؟
+routed_saudi	S04_John.wav	0/1	savings account	حطيت خمسمية ريال في ال savings account أمس.	حطيت 500 ريال في السايفينجز أكاونت أمس
+routed_saudi	S05_John.wav	0/1	Apple Pay	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟	أبل باي ما يشتغل عندي من أمس وش المشكلة؟
+routed_saudi	S06_John.wav	1/1		كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.	كلمت الـ Customer Service وقالوا لي انتظر ثلاثة أيام من عمل
+routed_saudi	S01_Leo.wav	0/1	transfer	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟	أبغى أسوي ترانسفر لحساب أخوي كيف أسويه؟
+routed_saudi	S02_Leo.wav	0/1	OTP	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟	قال أتب ما وصلني ممكن ترسله مرة ثانية؟
+routed_saudi	S03_Leo.wav	0/2	credit card, debit card	وش الفرق بين ال credit card وال debit card؟	وش الفرق بين الكريدت كارد والدبيت كارد؟
+routed_saudi	S04_Leo.wav	0/1	savings account	حطيت خمسمية ريال في ال savings account أمس.	حطيتي خمسمية ريال في السايفينجز أكاونت أمس.
+routed_saudi	S05_Leo.wav	0/1	Apple Pay	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟	أبل باي ما يشتغل عندي من أمس وش المشكلة؟
+routed_saudi	S06_Leo.wav	1/1		كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.	كلمت الـ Customer Service وقالوا لينتظر ثلاثة أيام عمل
+routed_saudi	S01_Sofia.wav	0/1	transfer	أبغى أسوي transfer لحساب أخوي، كيف أسويه؟	أبغى أسوي ترانسفر لحساب أخوي كيف أسويه؟
+routed_saudi	S02_Sofia.wav	0/1	OTP	ال OTP ما وصلني، ممكن ترسله مرة ثانية؟	قال عطبي ما وصلني. ممكن ترسله مرة ثانية.
+routed_saudi	S03_Sofia.wav	0/2	credit card, debit card	وش الفرق بين ال credit card وال debit card؟	وش الفرق بين الكريدت كارد والدابت كارد؟
+routed_saudi	S04_Sofia.wav	0/1	savings account	حطيت خمسمية ريال في ال savings account أمس.	حطيت خمسمية ريال في السيفينغز أكاونت أمس
+routed_saudi	S05_Sofia.wav	0/1	Apple Pay	Apple Pay ما يشتغل عندي من أمس، وش المشكلة؟	أبل باي ما يشتغل عندي من أمس. وش المشكلة؟
+routed_saudi	S06_Sofia.wav	1/1		كلمت ال customer service وقالوا لي انتظر ثلاث أيام عمل.	كلمت الـ Customer Service وقالوا لي انتظر ثلاثة أيام عمل،
+routed_white	W01_Aria.wav	0/1	Cashback	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.	كاشباك المشتريات سيضاف إلى حسابك خلال يومين
+routed_white	W02_Aria.wav	1/1		يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.	يمكنك تفعيل خدمة UN Notifications لمتابعة كل عملية على حسابك.
+routed_white	W04_Aria.wav	0/1	transfer	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.	تم رفض عملية ألي ترانسفر بسبب التجاوز الحد اليومي
+routed_white	W05_Aria.wav	0/1	Online banking	Online banking متاح الآن على مدار الساعة لجميع العملاء.	أونلاين بينكين متاح الآن على مدار الساعة لجميع العملاء.
+routed_white	W06_Aria.wav	1/1		ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.	ننصحك بتفعيل Two-Factor Authentication لحماية حسابك من الاختراق.
+routed_white	W08_Aria.wav	1/1		سيتم خصم القسط عبر direct debit في بداية كل شهر.	سيتم خصم القصد عبر Direct Debit في بداية كل شهر.
+routed_white	W09_Aria.wav	0/1	IBAN	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.	ابن الخاص بك موجود في صفحة تفاصيل الحساب
+routed_white	W10_Aria.wav	0/1	OTP	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.	لا تشارك رمز آلة بي مع أي شخص حتى لو أدعى أنه من البنك
+routed_white	W13_Aria.wav	0/1	API	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.	يمكن للشركات ربط أنظمتها بالبنك من خلال أبياف مفتوحة وآمنة.
+routed_white	W14_Aria.wav	0/1	PIN	إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.	إذا نسيت البن، يمكنك إعادة تعيينه من التطبيق.
+routed_white	W15_Aria.wav	0/1	Apple Pay	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.	أصبحت دفع عبر أبل باي متاحاً لجميع بطاقات البنك.
+routed_white	W16_Aria.wav	0/2	Visa, Mastercard	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.	ديفيزا وماستر كارد تفرضان رسوماً إضافية على بعض المعاملات الدولية،
+routed_white	W18_Aria.wav	2/2		حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.	حمل تطبيق البنك من App Store أو Google Play وسجل دخولك.
+routed_white	W20_Aria.wav	0/1	POS	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.	الحد الأقصى لعمليات إيل باس هو 10 آلاف ريال يومياً.
+routed_white	W21_Aria.wav	0/1	OTP	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.	رمز ألوت المكون من ستة أرقام صالح لمدة خمس دقائق فقط
+routed_white	W22_Aria.wav	1/1		سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.	سعر الفائدة على personal loan يبدأ من ثلاثة ونصف بالمئة سنوياً.
+routed_white	W23_Aria.wav	1/2	KYC verification	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.	بعد الـ Quick Verification ستتمكن من استخدام الـ Debit Card الجديدة مباشرة.
+routed_white	W01_Jason.wav	0/1	Cashback	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.	المشتريات سيضاف إلى حسابك خلال يومين
+routed_white	W02_Jason.wav	1/1		يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.	يمكنك تفعيل خدمة Ali Notifications لمتابعة كل عملية على حسابك
+routed_white	W04_Jason.wav	0/1	transfer	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.	لما رفض عملية إيلي ترانسفر بسبب تجاوز الحد اليومي،
+routed_white	W05_Jason.wav	0/1	Online banking	Online banking متاح الآن على مدار الساعة لجميع العملاء.	أونلاين بانكين متاح الآن على مدار الساعة لجميع العملاء
+routed_white	W06_Jason.wav	1/1		ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.	تنصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق
+routed_white	W08_Jason.wav	1/1		سيتم خصم القسط عبر direct debit في بداية كل شهر.	سيتم خصم القصد عبر Direct Debit في بداية كل شهر
+routed_white	W09_Jason.wav	0/1	IBAN	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.	خبن الخاص بك موجود في صفحة تفاصيل الحساب
+routed_white	W10_Jason.wav	0/1	OTP	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.	لا تشارك رمز آلت مع أي شخص حتى لو أدعى أنه من البنك
+routed_white	W13_Jason.wav	0/1	API	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.	يمكن للشركات ربط أنظمتها بالبنك من خلال AP مفتوحة وآمنة.
+routed_white	W14_Jason.wav	1/1		إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.	إذا نسيت آلي PIN، يمكنك إعادة تعيينه من التطبيق.
+routed_white	W15_Jason.wav	0/1	Apple Pay	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.	أصبحت دفع عبر أبل باي متاحاً لجميع بطاقات البنك.
+routed_white	W16_Jason.wav	0/2	Visa, Mastercard	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.	ليزا وماستر كارد تفرضان رسوماً إضافية على بعض المعاملات الدولية
+routed_white	W18_Jason.wav	2/2		حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.	حمل تطبيق البنك من App Store أو Google Play وسجل دخولك.
+routed_white	W20_Jason.wav	0/1	POS	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.	الحد الأقصى لعمليات الباس هو 10 ألاف ريال يومياً.
+routed_white	W21_Jason.wav	0/1	OTP	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.	من ستة أرقام صالح لمدة خمس دقائق فقط
+routed_white	W22_Jason.wav	1/1		سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.	سعر الفائدة على ال Personal Loan يبدأ من ثلاثة ونصف بالمئة سنوياً
+routed_white	W23_Jason.wav	1/2	KYC verification	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.	بعد الآن KeyWake Verification ستتمكن من استخدام ال-Debit Card الجديدة مباشرة.
+routed_white	W01_John.wav	0/1	Cashback	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.	كاشباك المشتريات سيضاف إلى حسابك خلال يومين
+routed_white	W02_John.wav	1/1		يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.	يمكنك تفعيل خدمة All Notifications لمتابعة كل عملية على حسابك.
+routed_white	W04_John.wav	0/1	transfer	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.	تم رفض عملية إيلي ترانسفر بسبب تجاوز الحد اليومي
+routed_white	W05_John.wav	1/1		Online banking متاح الآن على مدار الساعة لجميع العملاء.	Online Banking متاح الآن على مدار الساعة على جميع العملاء
+routed_white	W06_John.wav	1/1		ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.	ننصحك بتفعيل Two-Factor Authentication لحماية حسابك من الاختراق
+routed_white	W08_John.wav	1/1		سيتم خصم القسط عبر direct debit في بداية كل شهر.	سيتم خصم القصة عبر Direct Debit في بداية كل شهر.
+routed_white	W09_John.wav	0/1	IBAN	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.	ابن الخاص بك موجود في صفحة تفاصيل الحساب
+routed_white	W10_John.wav	0/1	OTP	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.	لا تشارك رمز آلة مع أي شخص حتى لو أدعى أنه من البنك
+routed_white	W13_John.wav	0/1	API	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.	يمكن الشركات ربط أنظمتها بالبنك من خلال اي بيب مفتوحة وآمنة
+routed_white	W14_John.wav	1/1		إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.	إذا نسيت ال-PIN، يمكنك إعادة تعيينه من التطبيق.
+routed_white	W15_John.wav	0/1	Apple Pay	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.	أصبح الدفع عبر أبل باي متاحا لجميع بطاقات البنك
+routed_white	W16_John.wav	0/2	Visa, Mastercard	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.	فيزا وماستر كارد تفرضان رسوماً إضافية على بعض المعاملات الدولية.
+routed_white	W18_John.wav	2/2		حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.	حمل تطبيق البنك من App Store أو Google Play وسجل دخولك.
+routed_white	W20_John.wav	0/1	POS	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.	الحد الأقصى لعمليات الباس هو 10 ألاف ريال يومياً
+routed_white	W21_John.wav	0/1	OTP	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.	رمز ألوتب المكون من ستة أرقام صالح لمدة خمس دقائق فقط
+routed_white	W22_John.wav	1/1		سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.	سعر الفائدة على الـ Personal Loan يبدأ من 3.5% سنوياً
+routed_white	W23_John.wav	1/2	KYC verification	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.	بعد الـ Quake Verification ستتمكن من استخدام الـ Debit Card الجديدة مباشرة
+routed_white	W01_Leo.wav	0/1	Cashback	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.	كاشباك المشتريات سيضاف إلى حسابك خلال يومين.
+routed_white	W02_Leo.wav	1/1		يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.	يمكنك تفعيل خدمة آل Notifications لمتابعة كل عملية على حسابك.
+routed_white	W04_Leo.wav	0/1	transfer	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.	تم رفض عملية آلي ترانسفر بسبب تجاوز الحد اليومي
+routed_white	W05_Leo.wav	1/1		Online banking متاح الآن على مدار الساعة لجميع العملاء.	Online Banking متاح الآن على مدار الساعة لجميع العملاء
+routed_white	W06_Leo.wav	1/1		ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.	ننصحك بتفعيل Two-Factor Authentication لحماية حسابك من الاختراق.
+routed_white	W08_Leo.wav	1/1		سيتم خصم القسط عبر direct debit في بداية كل شهر.	سيتم خصم القصة عبر Direct Debit في بداية كل شهر.
+routed_white	W09_Leo.wav	0/1	IBAN	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.	ابن الخاص بك موجود في صفحة تفاصيل الحساب
+routed_white	W10_Leo.wav	0/1	OTP	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.	لا تشارك رمز آلي مع أي شخص حتى لو أدعى أنه من البنك
+routed_white	W13_Leo.wav	0/1	API	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.	يمكن للشركات ربط أنظمتها بالبنك من خلال APF مفتوحة وآمنة.
+routed_white	W14_Leo.wav	1/1		إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.	إذا نسيت آل PIN يمكنك إعادة تعيين من التطبيق
+routed_white	W15_Leo.wav	0/1	Apple Pay	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.	أصبح الدفع عبر أبل باي متاحاً لجميع بطاقات البنك
+routed_white	W16_Leo.wav	0/2	Visa, Mastercard	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.	فيزا وماستر كارد تفرضان رسوماً إضافية على بعض المعاملات الدولية.
+routed_white	W18_Leo.wav	2/2		حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.	حمل تطبيق البنك من App Store أو Google Play وسجل دخولك.
+routed_white	W20_Leo.wav	0/1	POS	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.	الحد الأقصى لعمليات إيل باس هو عشرة آلاف ريال يومياً.
+routed_white	W21_Leo.wav	0/1	OTP	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.	رمز آلة المكون من 6 أرقام صالح لمدة 5 دقائق فقط
+routed_white	W22_Leo.wav	1/1		سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.	سعر الفائدة على A-Personal Loan يبدأ من 3.5% سنوياً.
+routed_white	W23_Leo.wav	0/2	KYC verification, debit card	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.	بعد الكيوك فيريفيكيشن ستتمكن من استخدام الديبيت كارد الجديدة مباشرة،
+routed_white	W01_Sofia.wav	0/1	Cashback	Cashback المشتريات سيُضاف إلى حسابك خلال يومين.	كاشباك المشتريات سيضاف إلى حسابك خلال يومين
+routed_white	W02_Sofia.wav	1/1		يمكنك تفعيل خدمة ال notifications لمتابعة كل عملية على حسابك.	يمكنك تفعيل خدمة EEL Notifications لمتابعة كل عملية على حسابك؟
+routed_white	W04_Sofia.wav	0/1	transfer	تم رفض عملية ال transfer بسبب تجاوز الحد اليومي.	تم رفض عملية ألي ترانسفر بسبب تجاوز الحد اليومي
+routed_white	W05_Sofia.wav	0/1	Online banking	Online banking متاح الآن على مدار الساعة لجميع العملاء.	أونلاين بينكينج متاح الآن على مدار الساعة لجميع العملاء
+routed_white	W06_Sofia.wav	1/1		ننصحك بتفعيل two-factor authentication لحماية حسابك من الاختراق.	ننصحك بتفعيل Two-Factor Authentication لحماية حسابك من الاختراق.
+routed_white	W08_Sofia.wav	1/1		سيتم خصم القسط عبر direct debit في بداية كل شهر.	سيتم خصم القصة عبر Direct Debit في بداية كل شهر.
+routed_white	W09_Sofia.wav	0/1	IBAN	IBAN الخاص بك موجود في صفحة تفاصيل الحساب.	ابن الخاص بك موجود في صفحة تفاصيل الحساب
+routed_white	W10_Sofia.wav	0/1	OTP	لا تشارك رمز ال OTP مع أي شخص حتى لو ادّعى أنه من البنك.	لا تشارك رمز آلي مع أي شخص حتى لو أدعى أنه من البنك
+routed_white	W13_Sofia.wav	0/1	API	يمكن للشركات ربط أنظمتها بالبنك من خلال API مفتوحة وآمنة.	يمكن للشركات ربط أنظمتها بالبنك من خلال APA مفتوحة وآمنة.
+routed_white	W14_Sofia.wav	0/1	PIN	إذا نسيت ال PIN، يمكنك إعادة تعيينه من التطبيق.	إذا نسيت البن، يمكنك إعادة تعيينه من التطبيق.
+routed_white	W15_Sofia.wav	0/1	Apple Pay	أصبح الدفع عبر Apple Pay متاحًا لجميع بطاقات البنك.	أصبح الدفع عبر أبل باي متاحاً لجميع بطاقات البنك
+routed_white	W16_Sofia.wav	0/2	Visa, Mastercard	Visa و Mastercard تفرضان رسومًا إضافية على بعض المعاملات الدولية.	تفرضان رسوما إضافية على بعض المعاملات الدولية
+routed_white	W18_Sofia.wav	2/2		حمّل تطبيق البنك من App Store أو Google Play وسجّل دخولك.	حمل تطبيق البنك من App Store أو Google Play وسجل دخولك.
+routed_white	W20_Sofia.wav	0/1	POS	الحد الأقصى لعمليات ال POS هو عشرة آلاف ريال يوميًا.	الحد الأقصى لعمليات الباس هو 10 ألاف ريال يومياً
+routed_white	W21_Sofia.wav	0/1	OTP	رمز ال OTP المكوّن من ستة أرقام صالح لمدة خمس دقائق فقط.	رمز آلات المكون من 6 أرقام صالح لمدة 5 دقائق فقط
+routed_white	W22_Sofia.wav	1/1		سعر الفائدة على ال personal loan يبدأ من ثلاثة ونصف بالمئة سنويًا.	سعر الفائدة على ال Personal Loan يبدأ من ثلاثة ونصف بالمئة نوياً
+routed_white	W23_Sofia.wav	1/2	KYC verification	بعد ال KYC verification، ستتمكن من استخدام ال debit card الجديدة مباشرة.	بعد الـ KeyWiki Verification ستتمكن من استخدام الـ Debit Card الجديدة مباشرة.
+fix7_white	W03_Aria.wav	1/1		لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.	لإتمام العملية، أدخل رمز التحقق ثم أضغط على Confirm.
+fix7_white	W07_Aria.wav	1/1		إذا واجهت أي مشكلة، تواصل مع فريق customer support.	إذا واجهت أي مشكلة، تواصل مع فريق Customer Support.
+fix7_white	W11_Aria.wav	1/1		يمكنك سحب النقود من أقرب جهاز ATM.	يمكنك سحب النقود من أقرب جهاز ATM.
+fix7_white	W12_Aria.wav	0/2	CEO, SWIFT	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.	أعلن السييو عن إطلاق منصة جديدة للتحويلات الدولية عبر سويفت.
+fix7_white	W17_Aria.wav	0/1	Google Pay	يمكنك ربط بطاقتك بمحفظة Google Pay.	يمكنك ربط بطاقتك بمحفظة جوجل باي
+fix7_white	W19_Aria.wav	1/1		تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.	تم تحويل 2500 ريال إلى حسابك عبر Instant Transfer.
+fix7_white	W24_Aria.wav	0/3	Premium account, cashback, airport lounges	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.	كريميام أكاونت يمنحك كاشباك أعلى ودخولا مجانيا إلى إيربورت لونجز
+fix7_white	W03_Jason.wav	1/1		لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.	لإتمام العملية أدخل الرمز التحقق ثم ضغط على confirm
+fix7_white	W07_Jason.wav	1/1		إذا واجهت أي مشكلة، تواصل مع فريق customer support.	إذا واجهت أي مشكلة، تواصل مع فريق Customer Support.
+fix7_white	W11_Jason.wav	1/1		يمكنك سحب النقود من أقرب جهاز ATM.	يمكنك سحب النقود من أقرب جهاز ATM
+fix7_white	W12_Jason.wav	0/2	CEO, SWIFT	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.	أعلن للسييو عن إطلاق منصة جديدة للتحويلات الدولية عبر سوفت
+fix7_white	W17_Jason.wav	0/1	Google Pay	يمكنك ربط بطاقتك بمحفظة Google Pay.	يمكنك الربط بطاقتك بمحفظة جوجل باي
+fix7_white	W19_Jason.wav	1/1		تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.	تحويل 2500 ريال إلى حسابك عبر Instant Transfer
+fix7_white	W24_Jason.wav	0/3	Premium account, cashback, airport lounges	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.	يمنح كشبك أعلى ودخول مجانيا إلى أيرPORT LOUNGES
+fix7_white	W03_John.wav	1/1		لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.	لإتمام العملية أدخل رمز التحقق ثم اضغط على confirm
+fix7_white	W07_John.wav	1/1		إذا واجهت أي مشكلة، تواصل مع فريق customer support.	إذا واجهت أي مشكلة تواصل مع فريق Customer Support
+fix7_white	W11_John.wav	0/1	ATM	يمكنك سحب النقود من أقرب جهاز ATM.	يمكنك سحب النقود من أقرب جهاز RTM
+fix7_white	W12_John.wav	1/2	SWIFT	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.	أعلن الـ CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر سويفت
+fix7_white	W17_John.wav	0/1	Google Pay	يمكنك ربط بطاقتك بمحفظة Google Pay.	يمكنك ربط بطاقتك بمحفظة جوجل باي
+fix7_white	W19_John.wav	1/1		تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.	تم تحويل 2500 ريال إلى حسابك عبر Instant Transfer
+fix7_white	W24_John.wav	3/3		Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.	Premium Account يمنحك cashback أعلى ودخولا مجانيا إلى Airport Lounges.
+fix7_white	W03_Leo.wav	1/1		لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.	لإتمام العملية، أدخل رمز التحقق ثم أضغط على Confirm.
+fix7_white	W07_Leo.wav	1/1		إذا واجهت أي مشكلة، تواصل مع فريق customer support.	إذا واجهت أي مشكلة تواصل مع فريق Customer Support
+fix7_white	W11_Leo.wav	1/1		يمكنك سحب النقود من أقرب جهاز ATM.	يمكنك سحب النقود من أقرب جهاز ATM
+fix7_white	W12_Leo.wav	0/2	CEO, SWIFT	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.	أعلن السييو عن إطلاق منصة جديدة للتحويلات الدولية عبر سويفت
+fix7_white	W17_Leo.wav	0/1	Google Pay	يمكنك ربط بطاقتك بمحفظة Google Pay.	يمكنك ربط بطاقتك بمحفظة جوجل باي
+fix7_white	W19_Leo.wav	1/1		تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.	تم تحويل 2500 ريال إلى حسابك عبر Instant Transfer.
+fix7_white	W24_Leo.wav	0/3	Premium account, cashback, airport lounges	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.	ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة نانسي قنقر ترجمة ن
+fix7_white	W03_Sofia.wav	1/1		لإتمام العملية، أدخل رمز التحقق ثم اضغط على confirm.	لإتمام العملية، أدخل رمز التحقق، ثم اضغط على Confirm.
+fix7_white	W07_Sofia.wav	1/1		إذا واجهت أي مشكلة، تواصل مع فريق customer support.	إذا واجهت أي مشكلة، تواصل مع فريق Customer Support.
+fix7_white	W11_Sofia.wav	1/1		يمكنك سحب النقود من أقرب جهاز ATM.	يمكنك صحب النقود من أقرب جهاز ATM؟
+fix7_white	W12_Sofia.wav	0/2	CEO, SWIFT	أعلن ال CEO عن إطلاق منصة جديدة للتحويلات الدولية عبر SWIFT.	أعلن لسيو عن إطلاق منصة جديدة للتحويلات الدولية عبر سوفت
+fix7_white	W17_Sofia.wav	0/1	Google Pay	يمكنك ربط بطاقتك بمحفظة Google Pay.	يمكنك ربط بطاقتك بمحفظة جوجل باي
+fix7_white	W19_Sofia.wav	1/1		تم تحويل ألفين وخمسمئة ريال إلى حسابك عبر Instant Transfer.	تم تحويل 2500 ريال إلى حسابك عبر Instant Transfer.
+fix7_white	W24_Sofia.wav	0/3	Premium account, cashback, airport lounges	Premium account يمنحك cashback أعلى ودخولًا مجانيًا إلى airport lounges.	ترجمة نانسي قنقر

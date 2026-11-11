@@ -1,0 +1,8 @@
+# Large or generated files: models are downloaded, everything else is rebuilt by the scripts
+models/
+outputs/
+manifests/
+evalset_config.json
+*.wav
+*.mp4
+__pycache__/
